@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 async function main() {
-    await mongoose.connect('mongodb+srv://shamishchandra:JYXMixYZHmfNItfb@cluster0.gc1d65f.mongodb.net/Paytm');
+    await mongoose.connect('');
 
 }
 main()
